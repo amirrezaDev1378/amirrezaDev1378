@@ -5,7 +5,7 @@
   <a href="mailto:arin.valie.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-arin.valie.work%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/arin-vale/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -42,8 +42,8 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaDev1378&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezaDev1378&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 
